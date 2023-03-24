@@ -1,5 +1,5 @@
 # 👋 Hello There!
-I love automation, problem solving and building meaningful applications. (・ω・) <br/>
+I love automation, problem solving and building meaningful applications.<br/>
 
 [![LinkedIn](https://img.shields.io/badge/_Contact_Me-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-bayquen) 
 
